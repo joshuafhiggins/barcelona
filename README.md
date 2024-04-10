@@ -7,6 +7,10 @@ Barcelona Mautrix: [Download](https://nightly.link/beeper/barcelona/workflows/bu
 
 ## Getting Started
 
+
+
+
+
 ### Prerequisites
 These are not strict requirements – this project is simply only ensured to build on the following specs:
 
